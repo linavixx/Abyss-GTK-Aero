@@ -20,10 +20,10 @@ Works best with a blur-capable compositor.
 Forked from [Abyss Desktop](https://github.com/rtlewis1/GTK/tree/Abyss-Desktop). Adds more transparency and 4 new colors. Offered in my swayFX install script. <br>
 Credit for backgrounds in example images: [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski)
 
-### **Usage:**
-Copy into ~/.local/share/themes, apply with [nwg-look](https://github.com/nwg-piotr/nwg-look). <br>
+### **Automatic:**
+Copy into ~/.local/share/themes, apply with [nwg-look](https://github.com/nwg-piotr/nwg-look) or [my nwg-look fork](https://github.com/linavixx/nwg-look-gtk4) which'll also update GTK4. <br>
 
-### **GTK4:**
+### **Manual (GTK4):**
 ```shell
 mkdir ~/.config/gtk-4.0 && cd ~/.config/gtk-4.0
 touch settings.ini
