@@ -10,11 +10,11 @@ Works best with a blur-capable compositor.
 <img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-blood.png"/></td><td>
 <img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-deep.png"/></td><td>
 <img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-envy.png"/></td><td>
-<img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-ink.png"/></td></tr><tr><td>
-<img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-lavanda.png"/></td><td>
-<img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-lazuli.png"/></td><td>
+<img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-lavanda.png"/></td></tr><tr><td>
 <img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-miami.png"/></td><td>
-<img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-mint.png"/></td></tr>
+<img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-lazuli.png"/></td><td>
+<img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-mint.png"/></td><td>
+<img src="https://github.com/voidcityy/Abyss-GTK-Aero/blob/0c8dccdd71ae7a29567089dce6e47e1eedde09a6/assets/abyss-ink.png"/></td></tr>
 </table></div>
 
 Forked from [Abyss Desktop](https://github.com/rtlewis1/GTK/tree/Abyss-Desktop). Adds more transparency and 4 new colors. Offered in my swayFX install script. <br>
