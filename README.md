@@ -23,3 +23,9 @@ Credit for backgrounds in example images: [Pawel Czerwinski](https://unsplash.co
 ### **Usage:**
 Copy into ~/.local/share/themes, apply with [nwg-look](https://github.com/nwg-piotr/nwg-look).<br>
 **Note:** GTK4 apps will work, but libadwaita will not.
+
+### **Colored icons (only works with [Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme)):**
+```shell
+git clone https://github.com/vinceliuice/Tela-circle-icon-theme.git && cd Tela-circle-icon-theme
+./install.sh d87777 56c1d8 a7d877 6d6df2 9192bb 2a3cde b038a5 5fcfb6
+```
