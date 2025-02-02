@@ -2,7 +2,7 @@
 Abyss-GTK-Aero
 <h4 align="center">
 A set of high-contrast GTK themes with an emphasis on transparency. <br>
-Works best with a blur-capable compositor.
+Meant to be used with a blur-capable compositor.
 </h4>
 </h1>
 <br>
